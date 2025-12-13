@@ -1,7 +1,7 @@
 <?php 
 // DB credentials.
 define('DB_HOST','localhost');
-define('DB_USER','root');
+define('DB_USER','chol.thiong');
 define('DB_PASS','092693555.C');
 define('DB_NAME','webtech_2025A_chol_thiong');
 // Establish database connection.
